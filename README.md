@@ -1,2 +1,2 @@
 # VUEMUSIC
-this is a music
+this is a vue-cli object
