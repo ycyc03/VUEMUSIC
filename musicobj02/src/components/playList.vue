@@ -50,7 +50,6 @@ export default {
 }
 </script>
 
-
 <style lang="less" scoped>
 .playlist {
     width: 7.5rem;
